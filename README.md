@@ -17,5 +17,5 @@ This is a basic implementation of the Rock, Paper, Scissors game in Python. The 
 3. Navigate to the directory containing the script.
 4. Run the script using the command:
    ```bash
-   python rock_paper_scissors.py
+   python rock.py
 
